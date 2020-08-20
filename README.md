@@ -8,7 +8,7 @@ Kindly visit my Official Website https://jeromevillaruel.vercel.app
 
 Here are some ideas to get you started:
 
-- 💼 I’m currently working on Josom Software, Inc. (Our private company)
+- 💼 I’m currently working on Specialty Pulp Manufacturing, Inc. (SPMI) - (IT Coordinator)
 - 📓 I’m currently learning Web Designs, GraphQL, VueJS framework for webapplication
 - 👯 I’m looking for another projects, Kindly contact me if you are interested
 - ⚡ Fun fact: I am a songwriter, music arranger, pianist and a bassist.😅
