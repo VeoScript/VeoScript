@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 - 💼 I’m currently working on Specialty Pulp Manufacturing, Inc. (SPMI) - (IT Coordinator)
 - 📓 I’m currently learning Web Designs, GraphQL, VueJS framework for webapplication
-- 👯 I’m looking for another projects, Kindly contact me if you are interested
+- 👯 I’m looking for another projects, kindly contact me if you are interested
 - ⚡ Fun fact: I am a songwriter, music arranger, pianist and a bassist.😅
 -->
