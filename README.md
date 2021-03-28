@@ -1,4 +1,4 @@
-![github_pic](https://user-images.githubusercontent.com/26340308/112753525-66944d80-900a-11eb-970f-9e53f91a2554.png)
+![github_pic](https://user-images.githubusercontent.com/26340308/112753624-df93a500-900a-11eb-8696-b1e61a0fb596.png)
 <p>Hey there 👋,</p>
 <p>I am Jerome Villaruel better known as VEOSCRIPT,  Im a full stack developer and freelance web designer based Philippines. I create innovative solutions that make your product or service more effective in the marketplace. To say I dabble would be understatement, design is my passion. I have a range of skills in the creative fields specializing in user experience & user interface design, interactive design and front-end development. I love solving problems and creating beautiful functional work. </p>
 
