@@ -1,1 +1,1 @@
-![github-cover](https://user-images.githubusercontent.com/26340308/235300306-0ccebd8a-1398-4e09-bd56-f5616d4568f3.png)
+![github-cover](https://github.com/VeoScript/VeoScript/assets/26340308/60f47ab7-f73f-4218-9e4c-4aea67e3ea62)
