@@ -1,1 +1,1 @@
-![github-cover-updated](https://github.com/VeoScript/VeoScript/assets/26340308/5366ed18-8ad7-4f78-bf6b-3afd74935a6d)
+![github-cover-updated-blur](https://github.com/VeoScript/VeoScript/assets/26340308/5627efe8-218c-430c-bcf0-6605655c6201)
